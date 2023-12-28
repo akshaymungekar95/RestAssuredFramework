@@ -21,8 +21,6 @@ public class UserEndPointWithProperties {
         return routes;
     }
 
-
-
     public static Response createUser(User payload)
     {
         String post_url=getURL().getString("post_url");

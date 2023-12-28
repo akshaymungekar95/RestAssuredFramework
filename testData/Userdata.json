@@ -1,0 +1,9 @@
+{
+  "id": "45",
+  "username": "jsonuser",
+  "firstName": "john",
+  "lastName": "cena",
+  "email": "johncena@mail.com",
+  "password": "helloworld",
+  "phone": "123456789"
+}
